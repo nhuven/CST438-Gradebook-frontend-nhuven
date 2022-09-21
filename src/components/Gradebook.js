@@ -89,7 +89,7 @@ class Gradebook extends React.Component {
           });
           console.error(err);
         });
-   };        
+    };
     
     // when user has entered a new grade, update the state
     //  id    - index of row of grade change
